@@ -4,7 +4,7 @@ namespace TeamCalculator
     {
         static void Add()
         {
-            Console.WriteLine("Этот пункт меню пока не реализован.");
+            Console.WriteLine($"{a} + {b} = {a + b}");
         }
     }
 }
