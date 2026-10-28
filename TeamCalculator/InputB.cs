@@ -4,7 +4,7 @@ namespace TeamCalculator
     {
         static void InputB()
         {
-            Console.WriteLine("Этот пункт меню пока не реализован.");
+            b = ReadNumber("Введите B: ");
         }
     }
 }
